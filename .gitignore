@@ -2,5 +2,6 @@
 /includes/phpexcel/*
 /includes/db.php
 /includes/uploader.php
+/include/clear_old_files.php
 /output/personal_pdf/*
 /output/workshop_xls/*
