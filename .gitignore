@@ -1,0 +1,6 @@
+/includes/phpdocx/*
+/includes/phpexcel/*
+/includes/db.php
+/includes/uploader.php
+/output/personal_pdf/*
+/output/workshop_xls/*
